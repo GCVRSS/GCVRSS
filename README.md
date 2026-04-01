@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Guilherme 👋</h1>
 
-<!--
-**GCVRSS/GCVRSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💼 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Desenvolvedor Backend com foco em construção de APIs e sistemas escaláveis  
+- 🧠 Forte em lógica de programação e estrutura de dados  
+- 🐍 Experiência prática com Python no desenvolvimento de aplicações  
+- 🗄️ Atuação com modelagem de dados, SQL e bancos relacionais  
+- ⚙️ Conhecimento em integração entre sistemas e consumo de APIs  
+- 🚀 Buscando evoluir constantemente em arquitetura de software e boas práticas  
+
+---
+
+## 🚀 Habilidades & Tecnologias
+
+### ⚙️ Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
+### 🗄️ Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### 🧰 Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GCVRSS&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GCVRSS&layout=compact&theme=dark)
+
+---
+
+## 📫 Contato
+
+- 📧 Email: cavarsanguilherme
